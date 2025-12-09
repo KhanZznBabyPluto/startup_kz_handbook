@@ -1,0 +1,16 @@
+site_name: Startup Handbook Kazakhstan
+theme:
+  name: material
+nav:
+  - Главная: index.md
+  - Финансирование:
+      - Источники финансирования: funding.md
+  - Юридические вопросы:
+      - Налоги: legal/taxes.md
+      - Регистрация компании: legal/registration.md
+  - Команда:
+      - Найм: team/hiring.md
+      - Опционы и equity: team/equity.md
+  - Продукт:
+      - MVP: product/mvp.md
+      - PMF: product/pmf.md
