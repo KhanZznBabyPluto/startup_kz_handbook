@@ -7,10 +7,20 @@ nav:
       - Источники финансирования: funding.md
   - Юридические вопросы:
       - Налоги: legal/taxes.md
-      - Регистрация компании: legal/registration.md
+      - Регистрация компании: legal/how-to-open-too.md
+  - Акселераторы:
+      - Казахстан: accelerators/kz-accelerators.md
+      - Центральная Азия: accelerators/ca-accelerators.md
+      - Европа: accelerators/eu-accelerators.md
+      - США: accelerators/us-accelerators.md
+      - ЮВА: accelerators/ua-accelerators.md
+      - MENA: accelerators/mena-accelerators.md
+      - LATAM: accelerators/latam-accelerators.md
+  - Приём оплаты:
+      - Платежные системы внутри Казахстана: payments/acquiring.md
+      - Платежные системы для международной работы: payments/acquiring-int.md
   - Команда:
       - Найм: team/hiring.md
-      - Опционы и equity: team/equity.md
   - Продукт:
       - MVP: product/mvp.md
       - PMF: product/pmf.md
